@@ -1,4 +1,4 @@
-<body align="center">
+<div align="center">
     <img src="Summer.jpg" height="96px" style="border-radius: 4px;" title="A picture of my rabbit Summer being a loaf"/>
     <h1>GoodClover</h1>
     <p>
@@ -29,4 +29,4 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodClover&theme=dark" alt="My most used GitHub langs"/>
     </a>
-</body>
+</div>
