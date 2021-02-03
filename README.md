@@ -26,7 +26,4 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="128px" src="https://github-readme-stats.vercel.app/api?username=GoodClover&theme=dark" alt="My GitHub stats"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodClover&theme=dark" alt="My most used GitHub langs"/>
-    </a>
 </div>
