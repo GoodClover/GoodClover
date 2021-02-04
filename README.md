@@ -14,7 +14,6 @@
         <a id="Twitter" href="https://twitter.com/_GoodClover_">Twitter</a>
     </p>
     <p>I don't have any useful projects btw.</p>
-    <hr/>
     <address>
         <label for="Discord">Discord:</label>
         <code id="Discord">GoodClover#5275</code>
@@ -22,7 +21,7 @@
         <label for="Email">Email:</label>
         <a id="Email" href="mailto:oliversimmo@gmail.com">oliversimmo@gmail.com</a>
     </address>
-    <hr/>
+    <br/><hr/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="128px" src="https://github-readme-stats.vercel.app/api?username=GoodClover&theme=dark" alt="My GitHub stats"/>
     </a>
