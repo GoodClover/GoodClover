@@ -2,7 +2,9 @@
     <img src="Summer.jpg" height="96px" style="border-radius: 4px;" title="A picture of my rabbit Summer being a loaf"/>
     <h1>GoodClover</h1>
     <p>
-        <a id="Website" href="https://goodclover.xyz">Website</a>
+        <a id="Website" href="http://goodclover.xyz">Website</a>
+        •
+        <a id="Gemini Capsule" href="gemini://goodclover.xyz">Gemini Capsule</a><sup><a href="https://gemini.circumlunar.space">?</a></sup>
         •
         <span>
             OSM:
@@ -12,17 +14,18 @@
         </span>
         •
         <a id="Twitter" href="https://twitter.com/_GoodClover_">Twitter</a>
+        •
+        <a id="Station" href="gemini://station.martinrue.com/goodclover">Station</a>
     </p>
     <p>I don't have any useful projects btw.</p>
     <address>
         <label for="Discord">Discord:</label>
-        <code id="Discord">GoodClover#5275</code>
+        <a id="Discord" href="https://discord.com/users/408008218191855626">GoodClover#5275</a>
         <br/>
         <label for="Email">Email:</label>
         <a id="Email" href="mailto:oliversimmo@gmail.com">oliversimmo@gmail.com</a>
+        <br/>
+        <label for="Finger">Finger<sup><a href="https://en.wikipedia.org/wiki/Finger_protocol">?</a></sup>:</label>
+        <a id="Finger" href="finger://goodclover.xyz/olive">olive@goodclover.xyz</a>
     </address>
-    <br/><hr/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="128px" src="https://github-readme-stats.vercel.app/api?username=GoodClover&theme=dark" alt="My GitHub stats"/>
-    </a>
 </div>
